@@ -1,5 +1,5 @@
 _repo: King-Richard-III_1768
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Tragedies'
 - !lcsh 'Great Britain -- Kings and rulers -- Drama'
 - !lcsh 'Richard III, King of England, 1452-1485 -- Drama'
+- GITenberg
 title: King Richard III
 url: http://www.gutenberg.org/ebooks/1768
